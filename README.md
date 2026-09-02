@@ -62,6 +62,18 @@ A simple, rock-solid microcontroller board built around the **ATmega328P** — n
 
 ---
 
+## Hardware
+
+### Aurduino UNO Board
+
+<img src="image/uno.jpg" 
+     alt=" Aurduino uno Board" 
+     width="600">
+
+
+
+   ---
+
 ## 🗂️ Repository Structure
 
 ```text
