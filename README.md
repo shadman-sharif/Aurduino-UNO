@@ -30,7 +30,6 @@ A simple, reliable microcontroller board built around the **ATmega328P** chip �
 ```text
 Arduino-Uno-Guide/
 ├── README.md
-├── LICENSE
 ├── docs/
 │   ├── hardware.md         Board parts, genuine vs clone, power (read first)
 │   ├── software.md         Arduino IDE setup, the memory constraint that matters most
