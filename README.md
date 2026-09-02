@@ -67,13 +67,12 @@ A simple, rock-solid microcontroller board built around the **ATmega328P** — n
 ```text
 Arduino-Uno-Guide/
 ├── README.md
-├── LICENSE
-├── docs/
+├── UNO file/
 │   ├── hardware.md         Board parts, genuine vs clone, power (read first)
 │   ├── software.md         Arduino IDE setup, the memory constraint that matters most
 │   ├── GPIO.md             Pin map + which pins are actually safe to use
 │   └── troubleshooting.md  Real error messages and their fixes
-└── examples/
+└── Demo codes/
     ├── 01_serial_test/            Confirm the board boots
     ├── 02_led_blink/               Onboard LED (pin 13)
     ├── 03_analog_sensor_read/      Potentiometer → PWM LED + Serial Plotter
